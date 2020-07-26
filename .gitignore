@@ -1,3 +1,4 @@
 .idea/
 marno.egg-info/
 venv/
+__pycache__/
